@@ -18,7 +18,7 @@ In this one we show some lists. just start the lista on the next line after hitt
 - anothre one
 - and another one
 - a fifth
-- and a sixth
+
 
 In this new para we create a numbered list using numbers.
 1. first item
